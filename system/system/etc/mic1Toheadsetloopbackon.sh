@@ -1,0 +1,1 @@
+/system/bin/AudioSetParam SET_LOOPBACK_TYPE=1,2

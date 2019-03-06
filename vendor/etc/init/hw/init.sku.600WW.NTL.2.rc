@@ -1,0 +1,2 @@
+on fs
+	setprop ro.vendor.build.fingerprint Trochilus/Trochilus_00WW/Trochilus:9/PPR1.180610.011/00WW_0_330:user/release-keys

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!-- ******************* -->
+<!-- Create by BCD yuxin -->
+<!-- ehplmn feature -->
+<!-- ******************* -->
+
+<profile-data>
+    <!--
+        Profile fomula
+            <TAG>VALUE</TAG>    **TAG = Feature name + Requiement key
+
+        Example:
+        <EhplmnEntry Plmns="46001,46009"></EhplmnEntry>
+        <EhplmnEntry Plmns="46000,46002,46007,46008" Oneway="46004"></EhplmnEntry>
+    -->
+    <!-- Common -->
+    <!--
+        EhplmnEntry,the attribute definition for tag EHPLMN:
+        - Plmns: EH Plmns
+        - Oneway: One-way PLMN,Its EHPLMH is the value of Plmns.
+        ShareNameEntry,the attribute definition for tag Share_networks_string:
+        - Plmns: Show the network name based on MCC/MNC of SIM when registered on shared network
+        - Oneway: One-way sim PLMN,Its PLMN is the value of sim.
+    -->
+    <!-- EHPLMNS -->
+	<EhplmnEntry Plmns="20408,20412"/>
+	<EhplmnEntry Plmns="20610,20605"/>
+	<EhplmnEntry Plmns="20801,20815"/>
+	<EhplmnEntry Plmns="21401,21402,21403,21404,21405,21406,21407,21408,21409,21410,21411,21412,21413,21414,21415,21416,21417,21418,21419,21420,21421"/>
+	<EhplmnEntry Plmns="22288,22299"/>
+	<EhplmnEntry Plmns="23430,23431,23432,23433,23434"/>
+	<EhplmnEntry Plmns="24001,24005"/>
+	<EhplmnEntry Plmns="26207,26208,26203,26277"/>
+	<EhplmnEntry Plmns="31026,31031,310160,310200,310210,310220,310230,310240,310250,310260,310270,310280,311290,310300,310310,310320,311330,310660,310800"/>
+	<EhplmnEntry Plmns="31033,310330"/>
+	<EhplmnEntry Plmns="310150,310170,310380,310410"/>
+	<EhplmnEntry Plmns="334050,334090"/>
+	<EhplmnEntry Plmns="40404,40411"/>
+	<EhplmnEntry Plmns="40427,40490"/>
+	<EhplmnEntry Plmns="40430,40431"/>
+	<EhplmnEntry Plmns="40444,40445,40486,405034,40510,405803,405820,405847,405861"/>
+	<EhplmnEntry Plmns="40515,405805"/>
+	<EhplmnEntry Plmns="405036,40431"/>
+	<EhplmnEntry Plmns="42420,40486"/>
+	<EhplmnEntry Plmns="43602,43612"/>
+	<EhplmnEntry Plmns="45002,45008"/>
+	<EhplmnEntry Plmns="45400,45402,45412,45418"/>
+	<EhplmnEntry Plmns="45403,45404"/>
+	<EhplmnEntry Plmns="45412,45413"/>
+	<EhplmnEntry Plmns="45416,45419"/>
+	<EhplmnEntry Plmns="45501,45504"/>
+	<EhplmnEntry Plmns="45503,45505"/>
+	<EhplmnEntry Plmns="46000,46002,46004,46007,46008"/>
+	<EhplmnEntry Plmns="46001,46009"/>
+	<EhplmnEntry Plmns="46605,46697"/>
+	<EhplmnEntry Plmns="46697,46699"/>
+	<EhplmnEntry Plmns="51505,51503"/>
+	<EhplmnEntry Plmns="52003,52001"/>
+	<EhplmnEntry Plmns="52015" Oneway="52003"/>
+	<EhplmnEntry Plmns="52000,52004,52099"/>
+	<EhplmnEntry Plmns="52005,52018"/>
+	<EhplmnEntry Plmns="52010,52099"/>
+	<EhplmnEntry Plmns="52501,52502"/>
+	<EhplmnEntry Plmns="72402,72403,72404"/>
+	<EhplmnEntry Plmns="72406,72410,72411,72423"/>
+	<EhplmnEntry Plmns="72432,72433,72434"/>
+	<EhplmnEntry Plmns="73001,73010"/>
+	<EhplmnEntry Plmns="73001,73002,73003" Oneway="73009"/>
+
+    <!-- shared_networks -->
+	<ShareNameEntry Plmns="21405" Oneway="21404"/>
+	<ShareNameEntry Plmns="51505,51503"/>
+	<ShareNameEntry Plmns="73001,73002,73003" Oneway="73009"/>
+</profile-data>

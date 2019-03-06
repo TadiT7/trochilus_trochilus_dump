@@ -1,0 +1,8 @@
+on fs
+    setprop ro.product.board Trochilus
+    setprop ro.product.vendor.brand Trochilius
+    setprop ro.product.vendor.device Trochilus
+    setprop ro.product.vendor.model Trochilius
+    setprop ro.product.vendor.nickname Trochilus
+    setprop ro.product.vendor.manufacturer Trochilius
+	setprop ro.vendor.build.fingerprint Trochilus/ANT_00WW_FIH/Trochilus:9/PPR1.180610.011/00WW_0_330:user/release-keys

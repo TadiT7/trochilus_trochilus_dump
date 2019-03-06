@@ -1,0 +1,7 @@
+on fs
+    setprop ro.product.model.display Trochilus
+on fs
+    setprop ro.product.name Trochilus_00EEA
+
+	setprop ro.build.fingerprint Trochilus/Trochilus_00EEA/Trochilus:9/PPR1.180610.011/00WW_0_330:user/release-keys
+	setprop ro.build.description "Trochilus_00EEA-user 9 PPR1.180610.011 00WW_0_330 release-keys"

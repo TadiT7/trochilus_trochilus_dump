@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByEfPnn version="1">
+<virtualSpnOverride mccmncpnn="26203Ortel D" name="Ortel D"/>
+<virtualSpnOverride mccmncpnn="23430EE" name="EE"/>
+<virtualSpnOverride mccmncpnn="51503SUN" name="SUN"/>
+<!--[FRT-7454] BDC yuxin add for [Telenet BE]Incorrect SIM name shown when roaming IMSI used.begin -->
+<virtualSpnOverride mccmncpnn="20601Telenet" name="Telenet"/>
+<!--[FRT-7454] BDC yuxin add for [Telenet BE]Incorrect SIM name shown when roaming IMSI used.end -->
+<!--[FRT-7687] BDC yuxin add for [EI Telecom]IMSI switch, the device recognizes the SIM card as Orange” or “BEL Proximus. begin -->
+<virtualSpnOverride mccmncpnn="20601NRJ Mobile" name="NRJ Mobile"/>
+<!--[FRT-7687] BDC yuxin add for [EI Telecom]IMSI switch, the device recognizes the SIM card as Orange” or “BEL Proximus. end -->
+<!--[CO2-3035] BDC yuxin add for DUT shows ‘Network or SIM card error’ while accessing ‘Additional Settings’ for RJIO operator.begin  -->
+<virtualSpnOverride mccmncpnn="405874Jio 4G" name="Jio 4G"/>
+<!--[CO2-3035] BDC yuxin add for DUT shows ‘Network or SIM card error’ while accessing ‘Additional Settings’ for RJIO operator.end  -->
+</virtualSpnOverridesByEfPnn>

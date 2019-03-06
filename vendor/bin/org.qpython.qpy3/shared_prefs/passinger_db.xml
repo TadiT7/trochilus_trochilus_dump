@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="sl4a.secue">3adbab41-2dec-430f-ad49-39442680fa29</string>
+    <string name="config.ext_ad">{}</string>
+    <string name="app.feedurl">http://qpython.com/privacy.html</string>
+    <string name="ad.term">python,program,android,python 3</string>
+    <string name="ad.key">python,program,android,python 3</string>
+    <string name="app.feed"></string>
+    <string name="sl4a.port">40095</string>
+    <string name="config.ext">{&quot;notify_act&quot;:&quot;http:\/\/m.facebook.com\/QPython&quot;,&quot;conf_get_log_limit&quot;:&quot;30&quot;,&quot;msg_type&quot;:&quot;link&quot;,&quot;msg_ver&quot;:&quot;0&quot;,&quot;notify_msg&quot;:&quot;Like QPython3 on facebook&quot;,&quot;notify_msg_local&quot;:&quot;-&quot;,&quot;conf_get_log_cls&quot;:&quot;#fingerprint#model#brand#&quot;,&quot;msg_param&quot;:&quot;&quot;,&quot;msg_msg&quot;:&quot;&quot;,&quot;conf_send_log_host&quot;:&quot;&quot;,&quot;conf_feedback_email&quot;:&quot;support@qpython.org&quot;,&quot;conf_update_ver&quot;:&quot;1&quot;,&quot;conf_get_log_types&quot;:&quot;11,12,13&quot;,&quot;notify_msg_TED&quot;:&quot;-&quot;,&quot;extend_a8_play_url&quot;:&quot;market:\/\/details?id=com.quseit.a8&quot;,&quot;conf_rate_url&quot;:&quot;market:\/\/details?id=org.qpython.qpy3&quot;,&quot;ga_gtid&quot;:&quot;UA-33828902-1&quot;,&quot;msg_link&quot;:&quot;&quot;}</string>
+    <string name="ad.who"></string>
+    <string name="app.about">QPython3 ( Play 1.0.3 ) - a script Engine running on Android devices like phone or tablet, which help driving your android device to work as you want more quickly and more effectively with Python 3.x Scripts</string>
+    <string name="ad.banner"></string>
+    <string name="service.updatehost"></string>
+    <string name="plugin.noad">0</string>
+    <string name="sl4a.hostname">127.0.0.1</string>
+    <string name="app.update_seq">24</string>
+    <string name="user.usernoid">29ba4fe0-c12f-4277-8bbb-10c07ba46ade</string>
+    <string name="service.contenthost"></string>
+    <string name="ad.act">program</string>
+    <string name="service.html5index"></string>
+    <string name="tmp.update_check_time">2017122709</string>
+    <string name="config.installlink">http://www.qpython.org</string>
+    <string name="ad.link"></string>
+    <string name="app.url">http://m.facebook.com/QPython</string>
+</map>

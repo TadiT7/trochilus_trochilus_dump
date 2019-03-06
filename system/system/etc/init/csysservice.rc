@@ -1,0 +1,7 @@
+# create filesystems if necessary
+service check_sys /system/bin/csysservice -c /system
+        class core
+        user root
+        group root
+        oneshot
+

@@ -1,0 +1,11 @@
+on fs
+    setprop ro.build.host qwyhaypx
+    setprop ro.build.product Trochilus
+    setprop ro.product.brand Trochilus
+    setprop ro.product.model Trochilus
+    setprop ro.com.google.clientidbase 
+    setprop ro.product.device Trochilus
+    setprop ro.product.nickname Trochilus
+    setprop ro.product.manufacturer Trochilus
+	setprop ro.build.fingerprint Trochilus/ANT_00WW_FIH/Trochilus:9/PPR1.180610.011/00WW_0_330:user/release-keys
+	setprop ro.build.description "ANT_00WW_FIH-user 9 PPR1.180610.011 00WW_0_330 release-keys"

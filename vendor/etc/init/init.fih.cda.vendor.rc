@@ -1,0 +1,5 @@
+import /vendor/etc/init/hw/init.sku.${ro.boot.skuid}.${ro.boot.hwmodel}.${ro.boot.simslot}.rc
+import /vendor/etc/init/hw/init.sku.${ro.boot.skuid}.${ro.boot.hwmodel}.rc
+import /vendor/etc/init/hw/init.sku.${ro.boot.skuid}.rc
+import /vendor/etc/init/hw/init.sku.rc
+
